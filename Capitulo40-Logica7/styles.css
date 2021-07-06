@@ -1,0 +1,42 @@
+.caja1 {
+  border: 5px solid #000;
+  width: 800px;
+  height: 150px;
+  margin: 100px auto;
+}
+
+
+.caja2 {
+  width: 120px;
+  height: 80%;
+  margin-top: 2%;
+  margin-left: 1%;
+  background: orange;
+
+  transition: all 3s ease;
+}
+
+.ostia {
+  margin-top: 300px;
+  border: 5px solid #000;
+  height: 150px;
+  width: 800px;
+  margin: auto;
+}
+
+.ostia2 {
+  width: 120px;
+  height: 120px;
+  margin-top: 2%;
+  margin-left: 1%;
+  background: orange;
+}
+
+#hola2.active {
+  margin-left: 650px;
+  border-radius: 50%;
+}
+
+
+
+

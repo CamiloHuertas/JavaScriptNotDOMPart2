@@ -1,0 +1,8 @@
+{
+  "cadena": "Camilo",
+  "numero": 35,
+  "booleano": true,
+  "arreglo": ["correr", "caminar", "trotar"],
+  "objeto": { "twitter": "No hay", "email": "camiloandreshuertas26@gmail.com" },
+  "nulo": null
+}
